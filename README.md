@@ -45,10 +45,6 @@ Separate admin and user services with semantic chunking, hybrid retrieval that f
 A healthcare AI microservice that recommends the right medical department, using semantic search over 493K+ disease–symptom mappings.
 `FastAPI` `Sentence Transformers` `ChromaDB`
 
-**[ZenStore AI](https://github.com/as-kashmary/Zenstore-AI)**: an LLM-powered product-data backend
-An async FastAPI service that writes marketing descriptions for products with a local Ollama LLM. It processes bulk uploads in the background, uses JWT auth and stores data in MySQL through async SQLAlchemy.
-`FastAPI` `Ollama` `SQLAlchemy` `MySQL` `JWT`
-
 ---
 
 ### 📄 Publication
