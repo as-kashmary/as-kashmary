@@ -4,6 +4,7 @@
 
 I build and deploy LLM applications with Python, PyTorch and Hugging Face: RAG and conversational systems, fine-tuned language models (LoRA/QLoRA) and the FastAPI services and data pipelines behind them. I'm a first-author published researcher in multilingual NLP, focusing on Bengali.
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-as--kashmary.github.io-0D9488?logo=githubpages&logoColor=white)](https://as-kashmary.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-as--kashmary-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/as-kashmary/)
 [![Email](https://img.shields.io/badge/Email-askashmary%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:askashmary@gmail.com)
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-as--kashmary-FFD21E?logo=huggingface&logoColor=black)](https://huggingface.co/as-kashmary)
